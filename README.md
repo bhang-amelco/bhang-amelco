@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Barnabas Hang @bhang-amelco
 - 👀 I’m interested in IT stuff, Motorcycles, Gaming, TV shows
-- 🌱 I’m currently learning Go Lang, NodeJS, 
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can rouch out to me on Slack
 
